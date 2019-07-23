@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars.zip"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/activation.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-beanutils-1.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/hibernate-core-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/hibernate-core-4.0.1.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/javax.batch-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/javax.persistence_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/javax-ssl-1_1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/jaxen-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/jettison-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/logback-classic-1.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/logback-core-1.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/mail.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/mongo-java-driver-3.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/pw-swift-core-SRU2016-7.8.9.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/pw-swift-core-SRU2016-7.8.9-sources.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/slf4j-api-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/slf4j-api-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/slf4j-jdk14-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-aop-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-aspects-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-batch-core-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-batch-core-3.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-batch-infrastructure-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-batch-infrastructure-3.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-context-support-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-data-commons-1.12.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-data-mongodb-1.9.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-data-mongodb-log4j-1.10.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-jdbc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-orm-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-oxm-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-retry-1.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/spring-tx-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/murugan/09_Applications/MMCJars/MMCJars/xstream-1.4.7.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
